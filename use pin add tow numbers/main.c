@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	int num1 = 1;
+	int num1 = 1; //show num1
 	int num2 = 2;
 	int* a = &num1;
 	int* b = &num2;
